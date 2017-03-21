@@ -1,0 +1,13 @@
+GeneratorModel for yakindu::c {
+
+	statechart eCall {
+
+		feature Outlet {
+			targetProject = "sensorE"
+			targetFolder = "src/model/src-gen"
+			libraryTargetFolder = "src/model/src"
+		}
+
+		
+	}
+}
